@@ -22,3 +22,4 @@ jboss_eap_base_version: 6.4
 
 # ussually this is set at the playbook level
 transfer_method: csp-to-host #| copy-from-contoller | url
+
